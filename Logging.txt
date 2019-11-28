@@ -1,0 +1,8 @@
+nov 27, 2019 9:41:55 PM htmlloggerapp.UseLogger doSomeThingAndLog
+GRAVE: Info Log
+nov 27, 2019 9:41:55 PM htmlloggerapp.UseLogger doSomeThingAndLog
+GRAVE: Info Log
+nov 27, 2019 9:41:55 PM htmlloggerapp.UseLogger doSomeThingAndLog
+ADVERTENCIA: Info Log
+nov 27, 2019 9:41:55 PM htmlloggerapp.UseLogger doSomeThingAndLog
+INFORMACIÓN: Info Log
